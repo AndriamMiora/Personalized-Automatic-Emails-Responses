@@ -2,7 +2,8 @@
 
 ## Cloner le Dépôt 
 
-Pour commencer, clonez le dépôt Git contenant les notebooks et les données nécessaires avec la commande : `git clone https://github.com/AndriamMiora/Personalized-Automatic-Emails-Responses.git`
+Pour commencer, clonez le dépôt Git contenant les notebooks et les données nécessaires avec la commande : 
+`git clone https://github.com/AndriamMiora/Personalized-Automatic-Emails-Responses.git`
 
 Ensuite, naviguez dans le répertoire cloné : avec la commande `cd Personalized-Automatic-Emails-Responses`
 
