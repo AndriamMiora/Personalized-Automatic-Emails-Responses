@@ -1,5 +1,12 @@
 # Personalized-Automatic-Emails-Responses
 
+## Cloner le Dépôt 
+
+Pour commencer, clonez le dépôt Git contenant les notebooks et les données nécessaires : ```bash git clone https://github.com/AndriamMiora/Personalized-Automatic-Emails-Responses.git
+
+Ensuite, naviguez dans le répertoire cloné : avec la commande "cd Personalized-Automatic-Emails-Responses"
+
+
 Ce répertoire contient 2 dossiers :
 
 - **Experience1** : 
@@ -11,6 +18,9 @@ Ce répertoire contient 2 dossiers :
   - 1 fichier : `Experience2.ipynb`
   - 7 fichiers CSV
   - 1 fichier TXT : `requirements.txt`
+
+
+Vous pouvez ensuite déposer ces fichiers sur votre Drive car les notebooks ont été configurés pour fonctionner sur Google Collab.
 
 ## Experience1.ipynb : Entraînement sur plusieurs employés, test sur un employé spécifique
 
