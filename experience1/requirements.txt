@@ -1,0 +1,19 @@
+
+# Désinstaller les packages conflictuels existants
+pyarrow==15.0.0
+requests==2.32.2
+
+# Installer des versions spécifiques qui devraient être compatibles
+transformers
+
+# Installer des packages depuis GitHub
+git+https://github.com/huggingface/transformers
+git+https://github.com/huggingface/peft
+git+https://github.com/huggingface/accelerate
+bitsandbytes
+datasets
+torch
+
+# Installer les autres packages nécessaires
+evaluate
+bert_score
