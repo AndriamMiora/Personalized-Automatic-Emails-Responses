@@ -8,7 +8,7 @@ Pour commencer, clonez le dépôt Git contenant les notebooks et les données n�
 Ensuite, naviguez dans le répertoire cloné : avec la commande `cd Personalized-Automatic-Emails-Responses`
 
 
-Ce répertoire contient 2 dossiers :
+Ce répertoire contient 3 dossiers :
 
 - **Experience1** : 
   - 1 fichier : `Experience1.ipynb`
@@ -19,7 +19,9 @@ Ce répertoire contient 2 dossiers :
   - 1 fichier : `Experience2.ipynb`
   - 7 fichiers CSV
   - 1 fichier TXT : `requirements.txt`
-
+ 
+- **small_dataset** : 
+  - 2 fichiers CSV : `minitest.csv` et `minitrain.csv` qui contiennet un petit jeu de données (4 et 8 mails) pour tester rapidement si le code fonctionne
 
 Vous pouvez ensuite déposer ces fichiers sur votre Drive car les notebooks ont été configurés pour fonctionner sur Google Collab.
 
