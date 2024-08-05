@@ -21,7 +21,7 @@ Ce répertoire contient 3 dossiers :
   - 1 fichier TXT : `requirements.txt`
  
 - **small_dataset** : 
-  - 2 fichiers CSV : `minitest.csv` et `minitrain.csv` qui contiennet un petit jeu de données (4 et 8 mails) pour tester rapidement si le code fonctionne
+  - 2 fichiers CSV : `minitest.csv` et `minitrain.csv` qui contiennent un petit jeu de données (4 et 8 mails) pour tester rapidement si le code fonctionne
 
 Vous pouvez ensuite déposer ces fichiers sur votre Drive car les notebooks ont été configurés pour fonctionner sur Google Collab.
 
