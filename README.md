@@ -29,7 +29,7 @@ Vous pouvez ensuite déposer ces fichiers sur votre Drive car les notebooks ont 
 
 ## Experience1.ipynb : Entraînement sur plusieurs employés, test sur un employé spécifique
 
-**Objectif :** Fine-tuner le modèle Llama-2 pour qu'il puisse générer des mails de réponses personnalisés grâce à 4 jeux de données contenant les mails de plusieurs employés, et tester sur les mails d'un employé spécifique : Jeff Dasovich. Quatre expériences seront réalisées.
+**Objectif :** Fine-tuner le modèle Llama-2 pour qu'il puisse générer des mails de réponses personnalisés grâce à 4 jeux de données contenant les mails de plusieurs employés, et tester sur les mails d'un employé spécifique : Jeff Dasovich. Pour tester si nous avons réussi à imiter de manière efficace le style de Jeff Dasovich, nous réalisons quatre expériences. Théoriquement, les métriques de l’expérience exp1.J-J devraient être supérieures à celles des autres.
 
 Pour mieux structurer les données, quatre dossiers seront créés pour les quatre expériences, où seront stockés les modèles entraînés :
 - **exp1.J-J** : Modèle entraîné sur les mails de Jeff Dasovich et testé sur ceux de Jeff Dasovich
@@ -53,7 +53,7 @@ Il suffit d’ouvrir le notebook, d’installer les packages et de suivre les in
 
 ## Experience2.ipynb : Entraînement et test sur des mails d'un employé spécifique
 
-**Objectif :** Fine-tuner le modèle Llama-2 pour qu'il puisse générer des mails de réponses personnalisés grâce à 6 jeux de données contenant les mails de Jeff Dasovich de tailles différentes (144, 288, 432, 576, 720, 863 mails) et tester sur des mails de Jeff Dasovich. Six expériences seront réalisées.
+**Objectif :** Tester si l'augmentation du nombre de mails améliore les performances du modèle. Fine-tuner le modèle Llama-2 pour qu'il puisse générer des mails de réponses personnalisés grâce à 6 jeux de données contenant les mails de Jeff Dasovich de tailles différentes (144, 288, 432, 576, 720, 863 mails) et tester sur des mails de Jeff Dasovich. Six expériences seront réalisées.
 
 Pour mieux structurer les données, six dossiers seront créés pour les six expériences, où seront stockés les modèles entraînés :
 - **exp1.144** : Modèle entraîné sur les 144 mails de Jeff Dasovich et testé sur 215 autres mails de Jeff Dasovich
