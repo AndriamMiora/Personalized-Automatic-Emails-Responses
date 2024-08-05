@@ -1,5 +1,7 @@
 # Personalized-Automatic-Emails-Responses
 
+Ce projet a pour objectif de fine-tuner le modèle Llama-2 pour qu'il puisse générer des mails de réponse personnalisés. Nous nous concentrons particulièrement sur le style d'écriture d'un employé de l'entreprise américaine Enron : Jeff Dasovich. Pour cela, nous allons effectuer deux expériences.
+
 ## Cloner le Dépôt 
 
 Pour commencer, clonez le dépôt Git contenant les notebooks et les données nécessaires avec la commande : 
